@@ -39,7 +39,7 @@ const SERVICES = [
   },
   {
     title: 'Content Creation',
-    image: 'https://images.unsplash.com/photo-1542744094-24638ea89614?q=80&w=2070&auto=format&fit=crop'
+    image: 'https://images.pexels.com/photos/18880006/pexels-photo-18880006.jpeg'
   },
   {
     title: 'Paid Advertising',
