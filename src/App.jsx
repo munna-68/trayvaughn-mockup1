@@ -19,7 +19,7 @@ const PROJECTS = [
     title: 'Content Series',
     subtitle: 'Reels & Graphics',
     roles: 'Production / Social Media',
-    image: 'https://images.unsplash.com/photo-1515093110296-e26090c2ebf9?q=80&w=2070&auto=format&fit=crop', 
+    image: 'https://images.pexels.com/photos/34212988/pexels-photo-34212988.jpeg', 
     overlayColor: '#7f1d1d', 
   },
   {
