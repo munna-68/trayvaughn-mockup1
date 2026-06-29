@@ -497,7 +497,7 @@ export default function App() {
         
         <section className="px-6 md:px-16 lg:px-32 pt-32 pb-12 z-10 relative">
           <div className="overflow-hidden mb-24 flex items-baseline gap-4">
-             <h2 className="text-6xl md:text-8xl font-black uppercase tracking-tighter text-white">OUR WORK</h2>
+             <h2 className="text-6xl md:text-8xl font-black uppercase tracking-tighter text-black">OUR WORK</h2>
              <div className="w-4 h-4 bg-[#D4AF37] rounded-full"></div>
           </div>
           
